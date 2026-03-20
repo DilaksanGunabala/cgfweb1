@@ -1,4 +1,4 @@
-import MyComponent from '.codeglofix-website-1';
+import MyComponent from './codeglofix-website_1';
 
 function App() {
   return (
